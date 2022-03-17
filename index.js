@@ -1,0 +1,1 @@
+console.log('Created my first project on GitLab');
